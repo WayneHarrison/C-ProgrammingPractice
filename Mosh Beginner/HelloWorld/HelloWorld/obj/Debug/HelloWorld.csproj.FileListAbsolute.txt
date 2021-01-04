@@ -1,0 +1,7 @@
+D:\Personal Files\Documents\C# Projects\Mosh Beginner\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Personal Files\Documents\C# Projects\Mosh Beginner\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Personal Files\Documents\C# Projects\Mosh Beginner\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Personal Files\Documents\C# Projects\Mosh Beginner\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\Personal Files\Documents\C# Projects\Mosh Beginner\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Personal Files\Documents\C# Projects\Mosh Beginner\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Personal Files\Documents\C# Projects\Mosh Beginner\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
