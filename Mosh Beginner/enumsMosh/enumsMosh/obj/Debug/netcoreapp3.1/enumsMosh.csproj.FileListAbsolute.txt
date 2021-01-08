@@ -1,0 +1,13 @@
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\bin\Debug\netcoreapp3.1\enumsMosh.exe
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\bin\Debug\netcoreapp3.1\enumsMosh.deps.json
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\bin\Debug\netcoreapp3.1\enumsMosh.runtimeconfig.json
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\bin\Debug\netcoreapp3.1\enumsMosh.runtimeconfig.dev.json
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\bin\Debug\netcoreapp3.1\enumsMosh.dll
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\bin\Debug\netcoreapp3.1\enumsMosh.pdb
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\obj\Debug\netcoreapp3.1\enumsMosh.csprojAssemblyReference.cache
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\obj\Debug\netcoreapp3.1\enumsMosh.AssemblyInfoInputs.cache
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\obj\Debug\netcoreapp3.1\enumsMosh.AssemblyInfo.cs
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\obj\Debug\netcoreapp3.1\enumsMosh.csproj.CoreCompileInputs.cache
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\obj\Debug\netcoreapp3.1\enumsMosh.dll
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\obj\Debug\netcoreapp3.1\enumsMosh.pdb
+C:\Users\WayneJnr\source\repos\enumsMosh\enumsMosh\obj\Debug\netcoreapp3.1\enumsMosh.genruntimeconfig.cache
