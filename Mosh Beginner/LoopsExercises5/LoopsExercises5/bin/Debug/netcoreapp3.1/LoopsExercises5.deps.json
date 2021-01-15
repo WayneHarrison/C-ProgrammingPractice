@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LoopsExercises5/1.0.0": {
+        "runtime": {
+          "LoopsExercises5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoopsExercises5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
