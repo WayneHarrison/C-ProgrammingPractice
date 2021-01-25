@@ -1,0 +1,13 @@
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\bin\Debug\netcoreapp3.1\DateTimeMosh.exe
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\bin\Debug\netcoreapp3.1\DateTimeMosh.deps.json
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\bin\Debug\netcoreapp3.1\DateTimeMosh.runtimeconfig.json
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\bin\Debug\netcoreapp3.1\DateTimeMosh.runtimeconfig.dev.json
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\bin\Debug\netcoreapp3.1\DateTimeMosh.dll
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\bin\Debug\netcoreapp3.1\DateTimeMosh.pdb
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.csprojAssemblyReference.cache
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.AssemblyInfoInputs.cache
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.AssemblyInfo.cs
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.csproj.CoreCompileInputs.cache
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.dll
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.pdb
+C:\Users\WayneJnr\source\repos\DateTimeMosh\DateTimeMosh\obj\Debug\netcoreapp3.1\DateTimeMosh.genruntimeconfig.cache
