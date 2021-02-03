@@ -1,0 +1,13 @@
+C:\Users\WayneJnr\source\repos\path\path\bin\Debug\netcoreapp3.1\path.exe
+C:\Users\WayneJnr\source\repos\path\path\bin\Debug\netcoreapp3.1\path.deps.json
+C:\Users\WayneJnr\source\repos\path\path\bin\Debug\netcoreapp3.1\path.runtimeconfig.json
+C:\Users\WayneJnr\source\repos\path\path\bin\Debug\netcoreapp3.1\path.runtimeconfig.dev.json
+C:\Users\WayneJnr\source\repos\path\path\bin\Debug\netcoreapp3.1\path.dll
+C:\Users\WayneJnr\source\repos\path\path\bin\Debug\netcoreapp3.1\path.pdb
+C:\Users\WayneJnr\source\repos\path\path\obj\Debug\netcoreapp3.1\path.csprojAssemblyReference.cache
+C:\Users\WayneJnr\source\repos\path\path\obj\Debug\netcoreapp3.1\path.AssemblyInfoInputs.cache
+C:\Users\WayneJnr\source\repos\path\path\obj\Debug\netcoreapp3.1\path.AssemblyInfo.cs
+C:\Users\WayneJnr\source\repos\path\path\obj\Debug\netcoreapp3.1\path.csproj.CoreCompileInputs.cache
+C:\Users\WayneJnr\source\repos\path\path\obj\Debug\netcoreapp3.1\path.dll
+C:\Users\WayneJnr\source\repos\path\path\obj\Debug\netcoreapp3.1\path.pdb
+C:\Users\WayneJnr\source\repos\path\path\obj\Debug\netcoreapp3.1\path.genruntimeconfig.cache

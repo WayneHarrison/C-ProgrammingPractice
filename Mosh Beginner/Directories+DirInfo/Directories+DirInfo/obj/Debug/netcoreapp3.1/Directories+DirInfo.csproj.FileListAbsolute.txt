@@ -1,0 +1,13 @@
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\bin\Debug\netcoreapp3.1\Directories+DirInfo.exe
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\bin\Debug\netcoreapp3.1\Directories+DirInfo.deps.json
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\bin\Debug\netcoreapp3.1\Directories+DirInfo.runtimeconfig.json
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\bin\Debug\netcoreapp3.1\Directories+DirInfo.runtimeconfig.dev.json
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\bin\Debug\netcoreapp3.1\Directories+DirInfo.dll
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\bin\Debug\netcoreapp3.1\Directories+DirInfo.pdb
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\obj\Debug\netcoreapp3.1\Directories+DirInfo.csprojAssemblyReference.cache
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\obj\Debug\netcoreapp3.1\Directories+DirInfo.AssemblyInfoInputs.cache
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\obj\Debug\netcoreapp3.1\Directories+DirInfo.AssemblyInfo.cs
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\obj\Debug\netcoreapp3.1\Directories+DirInfo.csproj.CoreCompileInputs.cache
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\obj\Debug\netcoreapp3.1\Directories+DirInfo.dll
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\obj\Debug\netcoreapp3.1\Directories+DirInfo.pdb
+C:\Users\WayneJnr\source\repos\Directories+DirInfo\Directories+DirInfo\obj\Debug\netcoreapp3.1\Directories+DirInfo.genruntimeconfig.cache
