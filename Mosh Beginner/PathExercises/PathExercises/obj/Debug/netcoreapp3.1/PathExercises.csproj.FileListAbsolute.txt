@@ -1,0 +1,13 @@
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\bin\Debug\netcoreapp3.1\PathExercises.exe
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\bin\Debug\netcoreapp3.1\PathExercises.deps.json
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\bin\Debug\netcoreapp3.1\PathExercises.runtimeconfig.json
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\bin\Debug\netcoreapp3.1\PathExercises.runtimeconfig.dev.json
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\bin\Debug\netcoreapp3.1\PathExercises.dll
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\bin\Debug\netcoreapp3.1\PathExercises.pdb
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\obj\Debug\netcoreapp3.1\PathExercises.csprojAssemblyReference.cache
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\obj\Debug\netcoreapp3.1\PathExercises.AssemblyInfoInputs.cache
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\obj\Debug\netcoreapp3.1\PathExercises.AssemblyInfo.cs
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\obj\Debug\netcoreapp3.1\PathExercises.csproj.CoreCompileInputs.cache
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\obj\Debug\netcoreapp3.1\PathExercises.dll
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\obj\Debug\netcoreapp3.1\PathExercises.pdb
+C:\Users\WayneJnr\source\repos\PathExercises\PathExercises\obj\Debug\netcoreapp3.1\PathExercises.genruntimeconfig.cache
