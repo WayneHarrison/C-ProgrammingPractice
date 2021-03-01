@@ -1,0 +1,13 @@
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\bin\Debug\netcoreapp3.1\WorkflowExercise.exe
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\bin\Debug\netcoreapp3.1\WorkflowExercise.deps.json
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\bin\Debug\netcoreapp3.1\WorkflowExercise.runtimeconfig.json
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\bin\Debug\netcoreapp3.1\WorkflowExercise.runtimeconfig.dev.json
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\bin\Debug\netcoreapp3.1\WorkflowExercise.dll
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\bin\Debug\netcoreapp3.1\WorkflowExercise.pdb
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\obj\Debug\netcoreapp3.1\WorkflowExercise.csprojAssemblyReference.cache
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\obj\Debug\netcoreapp3.1\WorkflowExercise.AssemblyInfoInputs.cache
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\obj\Debug\netcoreapp3.1\WorkflowExercise.AssemblyInfo.cs
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\obj\Debug\netcoreapp3.1\WorkflowExercise.csproj.CoreCompileInputs.cache
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\obj\Debug\netcoreapp3.1\WorkflowExercise.dll
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\obj\Debug\netcoreapp3.1\WorkflowExercise.pdb
+C:\Users\WayneJnr\source\repos\WorkflowExercise\WorkflowExercise\obj\Debug\netcoreapp3.1\WorkflowExercise.genruntimeconfig.cache
